@@ -1,0 +1,3177 @@
+{
+  "humaneval": {
+    "pass@1": 1.0,
+    "watermark_detection": {
+      "z_threshold": 4,
+      "total_samples": 164,
+      "positive_samples": 1,
+      "detection_rate": 0.006097560975609756,
+      "mean_len": 58.58536585365854,
+      "green_fraction": 0.48366567472787114,
+      "raw_detection_results": [
+        {
+          "num_tokens_scored": 52,
+          "num_green_tokens": 28,
+          "green_fraction": 0.5384615384615384,
+          "z_score": 0.5547001962252291,
+          "p_value": 0.2895498709769594,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 102,
+          "num_green_tokens": 47,
+          "green_fraction": 0.46078431372549017,
+          "z_score": -0.7921180343813395,
+          "p_value": 0.7858540722775531,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 9,
+          "num_green_tokens": 3,
+          "green_fraction": 0.3333333333333333,
+          "z_score": -1.0,
+          "p_value": 0.8413447460685429,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 29,
+          "num_green_tokens": 16,
+          "green_fraction": 0.5517241379310345,
+          "z_score": 0.5570860145311556,
+          "p_value": 0.2887343312136498,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 33,
+          "num_green_tokens": 18,
+          "green_fraction": 0.5454545454545454,
+          "z_score": 0.5222329678670935,
+          "p_value": 0.30075406722029496,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 48,
+          "num_green_tokens": 31,
+          "green_fraction": 0.6458333333333334,
+          "z_score": 2.0207259421636903,
+          "p_value": 0.021654071405395978,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 91,
+          "num_green_tokens": 45,
+          "green_fraction": 0.4945054945054945,
+          "z_score": -0.10482848367219183,
+          "p_value": 0.5417440460680529,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 14,
+          "num_green_tokens": 4,
+          "green_fraction": 0.2857142857142857,
+          "z_score": -1.6035674514745464,
+          "p_value": 0.9455952849797271,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 42,
+          "num_green_tokens": 23,
+          "green_fraction": 0.5476190476190477,
+          "z_score": 0.6172133998483676,
+          "p_value": 0.2685469892213208,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 59,
+          "num_green_tokens": 43,
+          "green_fraction": 0.7288135593220338,
+          "z_score": 3.5151005964822444,
+          "p_value": 0.00021979371943833055,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 59,
+          "num_green_tokens": 27,
+          "green_fraction": 0.4576271186440678,
+          "z_score": -0.6509445549041194,
+          "p_value": 0.7424588606451784,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 50,
+          "num_green_tokens": 24,
+          "green_fraction": 0.48,
+          "z_score": -0.282842712474619,
+          "p_value": 0.6113512946052392,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 43,
+          "num_green_tokens": 23,
+          "green_fraction": 0.5348837209302325,
+          "z_score": 0.457495710997814,
+          "p_value": 0.32365739219426015,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 18,
+          "num_green_tokens": 6,
+          "green_fraction": 0.3333333333333333,
+          "z_score": -1.4142135623730951,
+          "p_value": 0.9213503964748575,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 29,
+          "num_green_tokens": 18,
+          "green_fraction": 0.6206896551724138,
+          "z_score": 1.299867367239363,
+          "p_value": 0.09682321563461033,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 21,
+          "num_green_tokens": 9,
+          "green_fraction": 0.42857142857142855,
+          "z_score": -0.6546536707079772,
+          "p_value": 0.7436546198690384,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 11,
+          "num_green_tokens": 3,
+          "green_fraction": 0.2727272727272727,
+          "z_score": -1.507556722888818,
+          "p_value": 0.9341659919885928,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 47,
+          "num_green_tokens": 22,
+          "green_fraction": 0.46808510638297873,
+          "z_score": -0.4375949744936837,
+          "p_value": 0.669160042567,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 48,
+          "num_green_tokens": 23,
+          "green_fraction": 0.4791666666666667,
+          "z_score": -0.2886751345948129,
+          "p_value": 0.6135850036577762,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 111,
+          "num_green_tokens": 65,
+          "green_fraction": 0.5855855855855856,
+          "z_score": 1.8034001919297482,
+          "p_value": 0.03566269375352489,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 118,
+          "num_green_tokens": 67,
+          "green_fraction": 0.5677966101694916,
+          "z_score": 1.4729193886373175,
+          "p_value": 0.07038638668567507,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 43,
+          "num_green_tokens": 24,
+          "green_fraction": 0.5581395348837209,
+          "z_score": 0.7624928516630234,
+          "p_value": 0.22288295395742114,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 16,
+          "num_green_tokens": 5,
+          "green_fraction": 0.3125,
+          "z_score": -1.5,
+          "p_value": 0.9331927987311419,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 7,
+          "num_green_tokens": 2,
+          "green_fraction": 0.2857142857142857,
+          "z_score": -1.1338934190276817,
+          "p_value": 0.8715803710210717,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 23,
+          "num_green_tokens": 11,
+          "green_fraction": 0.4782608695652174,
+          "z_score": -0.20851441405707477,
+          "p_value": 0.5825863354073804,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 75,
+          "num_green_tokens": 44,
+          "green_fraction": 0.5866666666666667,
+          "z_score": 1.5011106998930268,
+          "p_value": 0.06666346588717471,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 30,
+          "num_green_tokens": 10,
+          "green_fraction": 0.3333333333333333,
+          "z_score": -1.8257418583505538,
+          "p_value": 0.9660554225690855,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 8,
+          "num_green_tokens": 3,
+          "green_fraction": 0.375,
+          "z_score": -0.7071067811865475,
+          "p_value": 0.7602499389065233,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 8,
+          "num_green_tokens": 3,
+          "green_fraction": 0.375,
+          "z_score": -0.7071067811865475,
+          "p_value": 0.7602499389065233,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 16,
+          "num_green_tokens": 5,
+          "green_fraction": 0.3125,
+          "z_score": -1.5,
+          "p_value": 0.9331927987311419,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 15,
+          "num_green_tokens": 4,
+          "green_fraction": 0.26666666666666666,
+          "z_score": -1.8073922282301278,
+          "p_value": 0.9646494275670086,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 39,
+          "num_green_tokens": 19,
+          "green_fraction": 0.48717948717948717,
+          "z_score": -0.16012815380508713,
+          "p_value": 0.5636099381030442,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 104,
+          "num_green_tokens": 47,
+          "green_fraction": 0.4519230769230769,
+          "z_score": -0.9805806756909202,
+          "p_value": 0.836600216165517,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 25,
+          "num_green_tokens": 10,
+          "green_fraction": 0.4,
+          "z_score": -1.0,
+          "p_value": 0.8413447460685429,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 11,
+          "num_green_tokens": 2,
+          "green_fraction": 0.18181818181818182,
+          "z_score": -2.1105794120443453,
+          "p_value": 0.9825957605940664,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 27,
+          "num_green_tokens": 15,
+          "green_fraction": 0.5555555555555556,
+          "z_score": 0.5773502691896257,
+          "p_value": 0.28185143082538655,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 77,
+          "num_green_tokens": 41,
+          "green_fraction": 0.5324675324675324,
+          "z_score": 0.5698028822981898,
+          "p_value": 0.28440570020666867,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 79,
+          "num_green_tokens": 40,
+          "green_fraction": 0.5063291139240507,
+          "z_score": 0.1125087900926024,
+          "p_value": 0.4552100002549006,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 15,
+          "num_green_tokens": 7,
+          "green_fraction": 0.4666666666666667,
+          "z_score": -0.2581988897471611,
+          "p_value": 0.6018732926311804,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 119,
+          "num_green_tokens": 68,
+          "green_fraction": 0.5714285714285714,
+          "z_score": 1.5583874449479593,
+          "p_value": 0.05957071550998596,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 67,
+          "num_green_tokens": 24,
+          "green_fraction": 0.3582089552238806,
+          "z_score": -2.321219442769799,
+          "p_value": 0.9898624983194365,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 6,
+          "num_green_tokens": 1,
+          "green_fraction": 0.16666666666666666,
+          "z_score": -1.6329931618554523,
+          "p_value": 0.9487647825701253,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 14,
+          "num_green_tokens": 6,
+          "green_fraction": 0.42857142857142855,
+          "z_score": -0.5345224838248488,
+          "p_value": 0.7035099509912867,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 46,
+          "num_green_tokens": 17,
+          "green_fraction": 0.3695652173913043,
+          "z_score": -1.7693034738587656,
+          "p_value": 0.9615783779831718,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 31,
+          "num_green_tokens": 10,
+          "green_fraction": 0.3225806451612903,
+          "z_score": -1.975658322294524,
+          "p_value": 0.9759032558534046,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 11,
+          "num_green_tokens": 7,
+          "green_fraction": 0.6363636363636364,
+          "z_score": 0.9045340337332909,
+          "p_value": 0.18285614814075662,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 79,
+          "num_green_tokens": 47,
+          "green_fraction": 0.5949367088607594,
+          "z_score": 1.6876318513890358,
+          "p_value": 0.04574096052841609,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 68,
+          "num_green_tokens": 29,
+          "green_fraction": 0.4264705882352941,
+          "z_score": -1.212678125181665,
+          "p_value": 0.8873735468196735,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 36,
+          "num_green_tokens": 15,
+          "green_fraction": 0.4166666666666667,
+          "z_score": -1.0,
+          "p_value": 0.8413447460685429,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 27,
+          "num_green_tokens": 12,
+          "green_fraction": 0.4444444444444444,
+          "z_score": -0.5773502691896257,
+          "p_value": 0.7181485691746134,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 35,
+          "num_green_tokens": 11,
+          "green_fraction": 0.3142857142857143,
+          "z_score": -2.197401062294143,
+          "p_value": 0.9860040922571671,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 34,
+          "num_green_tokens": 11,
+          "green_fraction": 0.3235294117647059,
+          "z_score": -2.057983021710106,
+          "p_value": 0.9802041183816548,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 19,
+          "num_green_tokens": 9,
+          "green_fraction": 0.47368421052631576,
+          "z_score": -0.22941573387056174,
+          "p_value": 0.5907270958089783,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 6,
+          "num_green_tokens": 3,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 14,
+          "num_green_tokens": 9,
+          "green_fraction": 0.6428571428571429,
+          "z_score": 1.0690449676496976,
+          "p_value": 0.14252470370130638,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 40,
+          "num_green_tokens": 17,
+          "green_fraction": 0.425,
+          "z_score": -0.9486832980505138,
+          "p_value": 0.8286091444260443,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 47,
+          "num_green_tokens": 27,
+          "green_fraction": 0.574468085106383,
+          "z_score": 1.021054940485262,
+          "p_value": 0.15361420486534832,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 26,
+          "num_green_tokens": 7,
+          "green_fraction": 0.2692307692307692,
+          "z_score": -2.3533936216582085,
+          "p_value": 0.9906985350494322,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 46,
+          "num_green_tokens": 16,
+          "green_fraction": 0.34782608695652173,
+          "z_score": -2.06418738616856,
+          "p_value": 0.9805000234937773,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 92,
+          "num_green_tokens": 54,
+          "green_fraction": 0.5869565217391305,
+          "z_score": 1.6681153124565982,
+          "p_value": 0.04764641901172832,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 12,
+          "num_green_tokens": 5,
+          "green_fraction": 0.4166666666666667,
+          "z_score": -0.5773502691896258,
+          "p_value": 0.7181485691746134,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 47,
+          "num_green_tokens": 26,
+          "green_fraction": 0.5531914893617021,
+          "z_score": 0.7293249574894728,
+          "p_value": 0.2329014546209221,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 19,
+          "num_green_tokens": 9,
+          "green_fraction": 0.47368421052631576,
+          "z_score": -0.22941573387056174,
+          "p_value": 0.5907270958089783,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 62,
+          "num_green_tokens": 31,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 67,
+          "num_green_tokens": 43,
+          "green_fraction": 0.6417910447761194,
+          "z_score": 2.321219442769799,
+          "p_value": 0.01013750168056345,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 47,
+          "num_green_tokens": 22,
+          "green_fraction": 0.46808510638297873,
+          "z_score": -0.4375949744936837,
+          "p_value": 0.669160042567,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 31,
+          "num_green_tokens": 15,
+          "green_fraction": 0.4838709677419355,
+          "z_score": -0.1796053020267749,
+          "p_value": 0.5712687790203794,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 41,
+          "num_green_tokens": 21,
+          "green_fraction": 0.5121951219512195,
+          "z_score": 0.15617376188860607,
+          "p_value": 0.43794802896147045,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 61,
+          "num_green_tokens": 27,
+          "green_fraction": 0.4426229508196721,
+          "z_score": -0.8962581595302719,
+          "p_value": 0.8149425500413768,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 69,
+          "num_green_tokens": 36,
+          "green_fraction": 0.5217391304347826,
+          "z_score": 0.3611575592573076,
+          "p_value": 0.3589908333668883,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 45,
+          "num_green_tokens": 20,
+          "green_fraction": 0.4444444444444444,
+          "z_score": -0.7453559924999299,
+          "p_value": 0.7719717298748721,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 77,
+          "num_green_tokens": 35,
+          "green_fraction": 0.45454545454545453,
+          "z_score": -0.7977240352174656,
+          "p_value": 0.7874846736075362,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 57,
+          "num_green_tokens": 21,
+          "green_fraction": 0.3684210526315789,
+          "z_score": -1.9867985355975657,
+          "p_value": 0.9765276365107591,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 47,
+          "num_green_tokens": 21,
+          "green_fraction": 0.44680851063829785,
+          "z_score": -0.7293249574894728,
+          "p_value": 0.767098545379078,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 62,
+          "num_green_tokens": 34,
+          "green_fraction": 0.5483870967741935,
+          "z_score": 0.762000762001143,
+          "p_value": 0.223029774685372,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 115,
+          "num_green_tokens": 73,
+          "green_fraction": 0.6347826086956522,
+          "z_score": 2.8907649055449727,
+          "p_value": 0.0019215274446028737,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 42,
+          "num_green_tokens": 16,
+          "green_fraction": 0.38095238095238093,
+          "z_score": -1.543033499620919,
+          "p_value": 0.9385886759493037,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 28,
+          "num_green_tokens": 20,
+          "green_fraction": 0.7142857142857143,
+          "z_score": 2.2677868380553634,
+          "p_value": 0.011671101006445408,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 58,
+          "num_green_tokens": 24,
+          "green_fraction": 0.41379310344827586,
+          "z_score": -1.3130643285972254,
+          "p_value": 0.905419363702396,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 17,
+          "num_green_tokens": 10,
+          "green_fraction": 0.5882352941176471,
+          "z_score": 0.7276068751089989,
+          "p_value": 0.23342713541136273,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 73,
+          "num_green_tokens": 39,
+          "green_fraction": 0.5342465753424658,
+          "z_score": 0.5852057359806528,
+          "p_value": 0.279204694244624,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 265,
+          "num_green_tokens": 182,
+          "green_fraction": 0.6867924528301886,
+          "z_score": 6.0815216566561165,
+          "p_value": 5.952364115635852e-10,
+          "prediction": true,
+          "confidence": 0.9999999994047636
+        },
+        {
+          "num_tokens_scored": 48,
+          "num_green_tokens": 24,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 27,
+          "num_green_tokens": 10,
+          "green_fraction": 0.37037037037037035,
+          "z_score": -1.3471506281091268,
+          "p_value": 0.9110341373658727,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 21,
+          "num_green_tokens": 15,
+          "green_fraction": 0.7142857142857143,
+          "z_score": 1.9639610121239315,
+          "p_value": 0.024767306717813353,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 34,
+          "num_green_tokens": 15,
+          "green_fraction": 0.4411764705882353,
+          "z_score": -0.6859943405700353,
+          "p_value": 0.753641661386456,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 25,
+          "num_green_tokens": 11,
+          "green_fraction": 0.44,
+          "z_score": -0.6,
+          "p_value": 0.7257468822499265,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 69,
+          "num_green_tokens": 30,
+          "green_fraction": 0.43478260869565216,
+          "z_score": -1.0834726777719228,
+          "p_value": 0.8607006640810188,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 35,
+          "num_green_tokens": 17,
+          "green_fraction": 0.4857142857142857,
+          "z_score": -0.1690308509457033,
+          "p_value": 0.5671138125036893,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 57,
+          "num_green_tokens": 28,
+          "green_fraction": 0.49122807017543857,
+          "z_score": -0.13245323570650439,
+          "p_value": 0.552687095226636,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 26,
+          "num_green_tokens": 12,
+          "green_fraction": 0.46153846153846156,
+          "z_score": -0.3922322702763681,
+          "p_value": 0.6525566988137633,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 39,
+          "num_green_tokens": 21,
+          "green_fraction": 0.5384615384615384,
+          "z_score": 0.48038446141526137,
+          "p_value": 0.3154770205920854,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 57,
+          "num_green_tokens": 23,
+          "green_fraction": 0.40350877192982454,
+          "z_score": -1.4569855927715483,
+          "p_value": 0.9274398213965315,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 75,
+          "num_green_tokens": 42,
+          "green_fraction": 0.56,
+          "z_score": 1.0392304845413263,
+          "p_value": 0.14934877799748508,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 110,
+          "num_green_tokens": 63,
+          "green_fraction": 0.5727272727272728,
+          "z_score": 1.5255401427929478,
+          "p_value": 0.06356221447122662,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 145,
+          "num_green_tokens": 75,
+          "green_fraction": 0.5172413793103449,
+          "z_score": 0.41522739926869984,
+          "p_value": 0.3389877214553938,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 67,
+          "num_green_tokens": 37,
+          "green_fraction": 0.5522388059701493,
+          "z_score": 0.8551861104941365,
+          "p_value": 0.1962240621237879,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 20,
+          "num_green_tokens": 9,
+          "green_fraction": 0.45,
+          "z_score": -0.4472135954999579,
+          "p_value": 0.6726395769907115,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 40,
+          "num_green_tokens": 22,
+          "green_fraction": 0.55,
+          "z_score": 0.6324555320336759,
+          "p_value": 0.26354462843276905,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 112,
+          "num_green_tokens": 59,
+          "green_fraction": 0.5267857142857143,
+          "z_score": 0.5669467095138409,
+          "p_value": 0.28537519402908695,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 17,
+          "num_green_tokens": 8,
+          "green_fraction": 0.47058823529411764,
+          "z_score": -0.24253562503633297,
+          "p_value": 0.5958174220427449,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 67,
+          "num_green_tokens": 36,
+          "green_fraction": 0.5373134328358209,
+          "z_score": 0.6108472217815261,
+          "p_value": 0.27065036402361153,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 40,
+          "num_green_tokens": 20,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 53,
+          "num_green_tokens": 29,
+          "green_fraction": 0.5471698113207547,
+          "z_score": 0.6868028197434451,
+          "p_value": 0.24610349632790784,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 57,
+          "num_green_tokens": 31,
+          "green_fraction": 0.543859649122807,
+          "z_score": 0.6622661785325219,
+          "p_value": 0.25390032413763663,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 115,
+          "num_green_tokens": 61,
+          "green_fraction": 0.5304347826086957,
+          "z_score": 0.6527533657682196,
+          "p_value": 0.25695764616404204,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 84,
+          "num_green_tokens": 38,
+          "green_fraction": 0.4523809523809524,
+          "z_score": -0.8728715609439696,
+          "p_value": 0.8086334555573871,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 125,
+          "num_green_tokens": 64,
+          "green_fraction": 0.512,
+          "z_score": 0.2683281572999747,
+          "p_value": 0.3942233671322355,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 93,
+          "num_green_tokens": 57,
+          "green_fraction": 0.6129032258064516,
+          "z_score": 2.177598558933893,
+          "p_value": 0.0147179684671912,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 99,
+          "num_green_tokens": 46,
+          "green_fraction": 0.46464646464646464,
+          "z_score": -0.7035264706814485,
+          "p_value": 0.7591361418416869,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 70,
+          "num_green_tokens": 39,
+          "green_fraction": 0.5571428571428572,
+          "z_score": 0.9561828874675149,
+          "p_value": 0.16948992198956098,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 87,
+          "num_green_tokens": 51,
+          "green_fraction": 0.5862068965517241,
+          "z_score": 1.6081688022566922,
+          "p_value": 0.05389910693870475,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 31,
+          "num_green_tokens": 17,
+          "green_fraction": 0.5483870967741935,
+          "z_score": 0.5388159060803247,
+          "p_value": 0.295006943581673,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 76,
+          "num_green_tokens": 49,
+          "green_fraction": 0.6447368421052632,
+          "z_score": 2.523573072576179,
+          "p_value": 0.005808445717079182,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 86,
+          "num_green_tokens": 50,
+          "green_fraction": 0.5813953488372093,
+          "z_score": 1.5096588248481377,
+          "p_value": 0.06556525143482543,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 20,
+          "num_green_tokens": 12,
+          "green_fraction": 0.6,
+          "z_score": 0.8944271909999159,
+          "p_value": 0.18554668476134878,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 25,
+          "num_green_tokens": 12,
+          "green_fraction": 0.48,
+          "z_score": -0.2,
+          "p_value": 0.579259709439103,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 84,
+          "num_green_tokens": 36,
+          "green_fraction": 0.42857142857142855,
+          "z_score": -1.3093073414159544,
+          "p_value": 0.904784868087238,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 116,
+          "num_green_tokens": 59,
+          "green_fraction": 0.5086206896551724,
+          "z_score": 0.18569533817705186,
+          "p_value": 0.4263418421673213,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 108,
+          "num_green_tokens": 51,
+          "green_fraction": 0.4722222222222222,
+          "z_score": -0.5773502691896257,
+          "p_value": 0.7181485691746134,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 26,
+          "num_green_tokens": 11,
+          "green_fraction": 0.4230769230769231,
+          "z_score": -0.7844645405527362,
+          "p_value": 0.7836162096661077,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 28,
+          "num_green_tokens": 10,
+          "green_fraction": 0.35714285714285715,
+          "z_score": -1.5118578920369088,
+          "p_value": 0.934714990942132,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 24,
+          "num_green_tokens": 12,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 93,
+          "num_green_tokens": 52,
+          "green_fraction": 0.5591397849462365,
+          "z_score": 1.1406468642034677,
+          "p_value": 0.12700845339015693,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 153,
+          "num_green_tokens": 77,
+          "green_fraction": 0.5032679738562091,
+          "z_score": 0.08084520834544433,
+          "p_value": 0.46778252732574965,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 58,
+          "num_green_tokens": 32,
+          "green_fraction": 0.5517241379310345,
+          "z_score": 0.7878385971583353,
+          "p_value": 0.21539556061376625,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 91,
+          "num_green_tokens": 57,
+          "green_fraction": 0.6263736263736264,
+          "z_score": 2.4110551244604124,
+          "p_value": 0.007953222050851673,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 118,
+          "num_green_tokens": 63,
+          "green_fraction": 0.5338983050847458,
+          "z_score": 0.7364596943186588,
+          "p_value": 0.23072549391668035,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 54,
+          "num_green_tokens": 27,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 186,
+          "num_green_tokens": 103,
+          "green_fraction": 0.553763440860215,
+          "z_score": 1.466471150213533,
+          "p_value": 0.07125998759326292,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 107,
+          "num_green_tokens": 51,
+          "green_fraction": 0.4766355140186916,
+          "z_score": -0.4833682445228318,
+          "p_value": 0.6855828541854769,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 73,
+          "num_green_tokens": 41,
+          "green_fraction": 0.5616438356164384,
+          "z_score": 1.0533703247651751,
+          "p_value": 0.14608564965841253,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 134,
+          "num_green_tokens": 60,
+          "green_fraction": 0.44776119402985076,
+          "z_score": -1.2094157958139042,
+          "p_value": 0.8867484284316398,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 28,
+          "num_green_tokens": 21,
+          "green_fraction": 0.75,
+          "z_score": 2.6457513110645903,
+          "p_value": 0.00407548579675135,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 43,
+          "num_green_tokens": 19,
+          "green_fraction": 0.4418604651162791,
+          "z_score": -0.7624928516630234,
+          "p_value": 0.7771170460425789,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 40,
+          "num_green_tokens": 17,
+          "green_fraction": 0.425,
+          "z_score": -0.9486832980505138,
+          "p_value": 0.8286091444260443,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 57,
+          "num_green_tokens": 22,
+          "green_fraction": 0.38596491228070173,
+          "z_score": -1.721892064184557,
+          "p_value": 0.9574554635918981,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 93,
+          "num_green_tokens": 48,
+          "green_fraction": 0.5161290322580645,
+          "z_score": 0.3110855084191276,
+          "p_value": 0.37786780878686355,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 14,
+          "num_green_tokens": 4,
+          "green_fraction": 0.2857142857142857,
+          "z_score": -1.6035674514745464,
+          "p_value": 0.9455952849797271,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 46,
+          "num_green_tokens": 17,
+          "green_fraction": 0.3695652173913043,
+          "z_score": -1.7693034738587656,
+          "p_value": 0.9615783779831718,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 154,
+          "num_green_tokens": 76,
+          "green_fraction": 0.4935064935064935,
+          "z_score": -0.16116459280507606,
+          "p_value": 0.5640181163148958,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 126,
+          "num_green_tokens": 63,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 81,
+          "num_green_tokens": 46,
+          "green_fraction": 0.5679012345679012,
+          "z_score": 1.2222222222222223,
+          "p_value": 0.11081180122969675,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 101,
+          "num_green_tokens": 55,
+          "green_fraction": 0.5445544554455446,
+          "z_score": 0.8955334711889903,
+          "p_value": 0.18525099078801582,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 65,
+          "num_green_tokens": 30,
+          "green_fraction": 0.46153846153846156,
+          "z_score": -0.6201736729460423,
+          "p_value": 0.7324282738011247,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 77,
+          "num_green_tokens": 51,
+          "green_fraction": 0.6623376623376623,
+          "z_score": 2.8490144114909484,
+          "p_value": 0.0021927446960468963,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 91,
+          "num_green_tokens": 46,
+          "green_fraction": 0.5054945054945055,
+          "z_score": 0.10482848367219183,
+          "p_value": 0.458255953931947,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 103,
+          "num_green_tokens": 44,
+          "green_fraction": 0.42718446601941745,
+          "z_score": -1.4779939172464398,
+          "p_value": 0.9302952968164282,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 151,
+          "num_green_tokens": 71,
+          "green_fraction": 0.47019867549668876,
+          "z_score": -0.7324096128940435,
+          "p_value": 0.7680407034062857,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 50,
+          "num_green_tokens": 29,
+          "green_fraction": 0.58,
+          "z_score": 1.131370849898476,
+          "p_value": 0.12894951764616974,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 41,
+          "num_green_tokens": 22,
+          "green_fraction": 0.5365853658536586,
+          "z_score": 0.4685212856658182,
+          "p_value": 0.31970592640168743,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 31,
+          "num_green_tokens": 14,
+          "green_fraction": 0.45161290322580644,
+          "z_score": -0.5388159060803247,
+          "p_value": 0.704993056418327,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 21,
+          "num_green_tokens": 5,
+          "green_fraction": 0.23809523809523808,
+          "z_score": -2.400396792595916,
+          "p_value": 0.9918113458292526,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 137,
+          "num_green_tokens": 81,
+          "green_fraction": 0.5912408759124088,
+          "z_score": 2.1358941442919024,
+          "p_value": 0.01634402150441562,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 66,
+          "num_green_tokens": 25,
+          "green_fraction": 0.3787878787878788,
+          "z_score": -1.9694638556693236,
+          "p_value": 0.975550075389045,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 61,
+          "num_green_tokens": 36,
+          "green_fraction": 0.5901639344262295,
+          "z_score": 1.4084056792618558,
+          "p_value": 0.07950548925036616,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 160,
+          "num_green_tokens": 53,
+          "green_fraction": 0.33125,
+          "z_score": -4.269074841227312,
+          "p_value": 0.9999901857297065,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 38,
+          "num_green_tokens": 22,
+          "green_fraction": 0.5789473684210527,
+          "z_score": 0.9733285267845753,
+          "p_value": 0.1651950244243971,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 23,
+          "num_green_tokens": 7,
+          "green_fraction": 0.30434782608695654,
+          "z_score": -1.876629726513673,
+          "p_value": 0.9697155698986714,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 32,
+          "num_green_tokens": 16,
+          "green_fraction": 0.5,
+          "z_score": 0.0,
+          "p_value": 0.5,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 45,
+          "num_green_tokens": 25,
+          "green_fraction": 0.5555555555555556,
+          "z_score": 0.7453559924999299,
+          "p_value": 0.228028270125128,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 96,
+          "num_green_tokens": 46,
+          "green_fraction": 0.4791666666666667,
+          "z_score": -0.4082482904638631,
+          "p_value": 0.6584543008451956,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 24,
+          "num_green_tokens": 10,
+          "green_fraction": 0.4166666666666667,
+          "z_score": -0.8164965809277261,
+          "p_value": 0.7928919108787373,
+          "prediction": false
+        },
+        {
+          "num_tokens_scored": 51,
+          "num_green_tokens": 28,
+          "green_fraction": 0.5490196078431373,
+          "z_score": 0.7001400420140048,
+          "p_value": 0.2419199256967841,
+          "prediction": false
+        }
+      ]
+    },
+    "pass_info": {
+      "1": [
+        [
+          0,
+          {
+            "task_id": 1,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "2": [
+        [
+          0,
+          {
+            "task_id": 2,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "0": [
+        [
+          0,
+          {
+            "task_id": 0,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "3": [
+        [
+          0,
+          {
+            "task_id": 3,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "6": [
+        [
+          0,
+          {
+            "task_id": 6,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "4": [
+        [
+          0,
+          {
+            "task_id": 4,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "5": [
+        [
+          0,
+          {
+            "task_id": 5,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "7": [
+        [
+          0,
+          {
+            "task_id": 7,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "9": [
+        [
+          0,
+          {
+            "task_id": 9,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "8": [
+        [
+          0,
+          {
+            "task_id": 8,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "10": [
+        [
+          0,
+          {
+            "task_id": 10,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "11": [
+        [
+          0,
+          {
+            "task_id": 11,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "12": [
+        [
+          0,
+          {
+            "task_id": 12,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "14": [
+        [
+          0,
+          {
+            "task_id": 14,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "13": [
+        [
+          0,
+          {
+            "task_id": 13,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "15": [
+        [
+          0,
+          {
+            "task_id": 15,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "16": [
+        [
+          0,
+          {
+            "task_id": 16,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "17": [
+        [
+          0,
+          {
+            "task_id": 17,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "18": [
+        [
+          0,
+          {
+            "task_id": 18,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "19": [
+        [
+          0,
+          {
+            "task_id": 19,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "20": [
+        [
+          0,
+          {
+            "task_id": 20,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "21": [
+        [
+          0,
+          {
+            "task_id": 21,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "22": [
+        [
+          0,
+          {
+            "task_id": 22,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "23": [
+        [
+          0,
+          {
+            "task_id": 23,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "24": [
+        [
+          0,
+          {
+            "task_id": 24,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "25": [
+        [
+          0,
+          {
+            "task_id": 25,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "26": [
+        [
+          0,
+          {
+            "task_id": 26,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "27": [
+        [
+          0,
+          {
+            "task_id": 27,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "29": [
+        [
+          0,
+          {
+            "task_id": 29,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "28": [
+        [
+          0,
+          {
+            "task_id": 28,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "30": [
+        [
+          0,
+          {
+            "task_id": 30,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "31": [
+        [
+          0,
+          {
+            "task_id": 31,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "32": [
+        [
+          0,
+          {
+            "task_id": 32,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "33": [
+        [
+          0,
+          {
+            "task_id": 33,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "34": [
+        [
+          0,
+          {
+            "task_id": 34,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "35": [
+        [
+          0,
+          {
+            "task_id": 35,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "36": [
+        [
+          0,
+          {
+            "task_id": 36,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "37": [
+        [
+          0,
+          {
+            "task_id": 37,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "38": [
+        [
+          0,
+          {
+            "task_id": 38,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "39": [
+        [
+          0,
+          {
+            "task_id": 39,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "40": [
+        [
+          0,
+          {
+            "task_id": 40,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "41": [
+        [
+          0,
+          {
+            "task_id": 41,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "42": [
+        [
+          0,
+          {
+            "task_id": 42,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "43": [
+        [
+          0,
+          {
+            "task_id": 43,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "44": [
+        [
+          0,
+          {
+            "task_id": 44,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "46": [
+        [
+          0,
+          {
+            "task_id": 46,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "45": [
+        [
+          0,
+          {
+            "task_id": 45,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "47": [
+        [
+          0,
+          {
+            "task_id": 47,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "48": [
+        [
+          0,
+          {
+            "task_id": 48,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "49": [
+        [
+          0,
+          {
+            "task_id": 49,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "50": [
+        [
+          0,
+          {
+            "task_id": 50,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "51": [
+        [
+          0,
+          {
+            "task_id": 51,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "52": [
+        [
+          0,
+          {
+            "task_id": 52,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "54": [
+        [
+          0,
+          {
+            "task_id": 54,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "53": [
+        [
+          0,
+          {
+            "task_id": 53,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "55": [
+        [
+          0,
+          {
+            "task_id": 55,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "56": [
+        [
+          0,
+          {
+            "task_id": 56,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "58": [
+        [
+          0,
+          {
+            "task_id": 58,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "57": [
+        [
+          0,
+          {
+            "task_id": 57,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "59": [
+        [
+          0,
+          {
+            "task_id": 59,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "60": [
+        [
+          0,
+          {
+            "task_id": 60,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "61": [
+        [
+          0,
+          {
+            "task_id": 61,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "62": [
+        [
+          0,
+          {
+            "task_id": 62,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "63": [
+        [
+          0,
+          {
+            "task_id": 63,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "64": [
+        [
+          0,
+          {
+            "task_id": 64,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "65": [
+        [
+          0,
+          {
+            "task_id": 65,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "67": [
+        [
+          0,
+          {
+            "task_id": 67,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "66": [
+        [
+          0,
+          {
+            "task_id": 66,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "68": [
+        [
+          0,
+          {
+            "task_id": 68,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "69": [
+        [
+          0,
+          {
+            "task_id": 69,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "71": [
+        [
+          0,
+          {
+            "task_id": 71,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "70": [
+        [
+          0,
+          {
+            "task_id": 70,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "72": [
+        [
+          0,
+          {
+            "task_id": 72,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "73": [
+        [
+          0,
+          {
+            "task_id": 73,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "76": [
+        [
+          0,
+          {
+            "task_id": 76,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "74": [
+        [
+          0,
+          {
+            "task_id": 74,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "77": [
+        [
+          0,
+          {
+            "task_id": 77,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "78": [
+        [
+          0,
+          {
+            "task_id": 78,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "79": [
+        [
+          0,
+          {
+            "task_id": 79,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "80": [
+        [
+          0,
+          {
+            "task_id": 80,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "75": [
+        [
+          0,
+          {
+            "task_id": 75,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "81": [
+        [
+          0,
+          {
+            "task_id": 81,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "82": [
+        [
+          0,
+          {
+            "task_id": 82,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "83": [
+        [
+          0,
+          {
+            "task_id": 83,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "84": [
+        [
+          0,
+          {
+            "task_id": 84,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "85": [
+        [
+          0,
+          {
+            "task_id": 85,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "86": [
+        [
+          0,
+          {
+            "task_id": 86,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "87": [
+        [
+          0,
+          {
+            "task_id": 87,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "88": [
+        [
+          0,
+          {
+            "task_id": 88,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "90": [
+        [
+          0,
+          {
+            "task_id": 90,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "89": [
+        [
+          0,
+          {
+            "task_id": 89,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "91": [
+        [
+          0,
+          {
+            "task_id": 91,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "92": [
+        [
+          0,
+          {
+            "task_id": 92,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "93": [
+        [
+          0,
+          {
+            "task_id": 93,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "94": [
+        [
+          0,
+          {
+            "task_id": 94,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "95": [
+        [
+          0,
+          {
+            "task_id": 95,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "96": [
+        [
+          0,
+          {
+            "task_id": 96,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "98": [
+        [
+          0,
+          {
+            "task_id": 98,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "97": [
+        [
+          0,
+          {
+            "task_id": 97,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "99": [
+        [
+          0,
+          {
+            "task_id": 99,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "100": [
+        [
+          0,
+          {
+            "task_id": 100,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "102": [
+        [
+          0,
+          {
+            "task_id": 102,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "101": [
+        [
+          0,
+          {
+            "task_id": 101,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "103": [
+        [
+          0,
+          {
+            "task_id": 103,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "106": [
+        [
+          0,
+          {
+            "task_id": 106,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "104": [
+        [
+          0,
+          {
+            "task_id": 104,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "105": [
+        [
+          0,
+          {
+            "task_id": 105,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "107": [
+        [
+          0,
+          {
+            "task_id": 107,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "108": [
+        [
+          0,
+          {
+            "task_id": 108,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "109": [
+        [
+          0,
+          {
+            "task_id": 109,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "110": [
+        [
+          0,
+          {
+            "task_id": 110,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "111": [
+        [
+          0,
+          {
+            "task_id": 111,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "112": [
+        [
+          0,
+          {
+            "task_id": 112,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "113": [
+        [
+          0,
+          {
+            "task_id": 113,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "114": [
+        [
+          0,
+          {
+            "task_id": 114,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "115": [
+        [
+          0,
+          {
+            "task_id": 115,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "116": [
+        [
+          0,
+          {
+            "task_id": 116,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "117": [
+        [
+          0,
+          {
+            "task_id": 117,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "118": [
+        [
+          0,
+          {
+            "task_id": 118,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "119": [
+        [
+          0,
+          {
+            "task_id": 119,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "121": [
+        [
+          0,
+          {
+            "task_id": 121,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "120": [
+        [
+          0,
+          {
+            "task_id": 120,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "123": [
+        [
+          0,
+          {
+            "task_id": 123,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "122": [
+        [
+          0,
+          {
+            "task_id": 122,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "124": [
+        [
+          0,
+          {
+            "task_id": 124,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "125": [
+        [
+          0,
+          {
+            "task_id": 125,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "126": [
+        [
+          0,
+          {
+            "task_id": 126,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "127": [
+        [
+          0,
+          {
+            "task_id": 127,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "128": [
+        [
+          0,
+          {
+            "task_id": 128,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "129": [
+        [
+          0,
+          {
+            "task_id": 129,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "130": [
+        [
+          0,
+          {
+            "task_id": 130,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "131": [
+        [
+          0,
+          {
+            "task_id": 131,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "132": [
+        [
+          0,
+          {
+            "task_id": 132,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "133": [
+        [
+          0,
+          {
+            "task_id": 133,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "134": [
+        [
+          0,
+          {
+            "task_id": 134,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "136": [
+        [
+          0,
+          {
+            "task_id": 136,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "135": [
+        [
+          0,
+          {
+            "task_id": 135,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "137": [
+        [
+          0,
+          {
+            "task_id": 137,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "138": [
+        [
+          0,
+          {
+            "task_id": 138,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "141": [
+        [
+          0,
+          {
+            "task_id": 141,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "139": [
+        [
+          0,
+          {
+            "task_id": 139,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "140": [
+        [
+          0,
+          {
+            "task_id": 140,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "142": [
+        [
+          0,
+          {
+            "task_id": 142,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "144": [
+        [
+          0,
+          {
+            "task_id": 144,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "145": [
+        [
+          0,
+          {
+            "task_id": 145,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "143": [
+        [
+          0,
+          {
+            "task_id": 143,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "146": [
+        [
+          0,
+          {
+            "task_id": 146,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "147": [
+        [
+          0,
+          {
+            "task_id": 147,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "148": [
+        [
+          0,
+          {
+            "task_id": 148,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "149": [
+        [
+          0,
+          {
+            "task_id": 149,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "150": [
+        [
+          0,
+          {
+            "task_id": 150,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "151": [
+        [
+          0,
+          {
+            "task_id": 151,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "152": [
+        [
+          0,
+          {
+            "task_id": 152,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "153": [
+        [
+          0,
+          {
+            "task_id": 153,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "154": [
+        [
+          0,
+          {
+            "task_id": 154,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "155": [
+        [
+          0,
+          {
+            "task_id": 155,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "157": [
+        [
+          0,
+          {
+            "task_id": 157,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "158": [
+        [
+          0,
+          {
+            "task_id": 158,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "156": [
+        [
+          0,
+          {
+            "task_id": 156,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "159": [
+        [
+          0,
+          {
+            "task_id": 159,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "162": [
+        [
+          0,
+          {
+            "task_id": 162,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "160": [
+        [
+          0,
+          {
+            "task_id": 160,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "161": [
+        [
+          0,
+          {
+            "task_id": 161,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ],
+      "163": [
+        [
+          0,
+          {
+            "task_id": 163,
+            "passed": true,
+            "result": "passed",
+            "completion_id": 0
+          }
+        ]
+      ]
+    }
+  },
+  "config": {
+    "model_ckpt": "codeparrot/codeparrot",
+    "prefix": "",
+    "do_sample": true,
+    "temperature": 0.2,
+    "top_k": 0,
+    "top_p": 0.95,
+    "n_samples": 20,
+    "eos": "<|endoftext|>",
+    "seed": 0,
+    "model": "bigcode/starcoder",
+    "model_path": null,
+    "revision": null,
+    "use_auth_token": true,
+    "trust_remote_code": false,
+    "task": "humaneval",
+    "batch_size": 10,
+    "max_length_generation": 512,
+    "precision": "fp16",
+    "limit": null,
+    "postprocess": true,
+    "allow_code_execution": true,
+    "generation_only": false,
+    "load_generations_path": null,
+    "outputs_dir": "OUTPUT_DIRECTORY_HUMAN",
+    "metric_output_path": "OUTPUT_DIRECTORY_HUMAN/evaluation_results.json",
+    "save_generations": false,
+    "save_generations_path": "OUTPUT_DIRECTORY_HUMAN/generations.json",
+    "save_references": false,
+    "wllm": true,
+    "sweet": false,
+    "exp": false,
+    "gamma": 0.5,
+    "delta": 2.0,
+    "entropy_threshold": 0.5,
+    "key_length": 512,
+    "block_size": null,
+    "n_runs": 100,
+    "detection_p_threshold": 0.1,
+    "detection_z_threshold": 4,
+    "n_detection": 1,
+    "detect_human_code": true
+  }
+}
